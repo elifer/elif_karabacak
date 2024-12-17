@@ -7,4 +7,4 @@
 - Install dependencies with ./mvnw clean install.
 - To run the project, execute ./mvnw clean test.
 - If the scenario fails, a screenshot of the step where the error occurred will be taken and added to the screenshots file in the project directory.
-a
+
